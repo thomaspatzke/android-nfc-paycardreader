@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">EC/Kreditkarten Infos</string>
-    <string name="error_nfc_not_avail">NFC nicht verfügbar!</string>
+    <string name="app_name">EC/credit card info</string>
+    <string name="error_nfc_not_avail">NFC is not available!</string>
     <string name="ui_nfcid">NFC ID</string>
     <string name="ui_blz">BLZ</string>
-    <string name="ui_konto">Konto</string>
-    <string name="ui_betrag">Betrag</string>
-    <string name="error_nfc_comm">Fehler bei NFC-Kommunikation - falscher Kartentyp!</string>
-    <string name="error_nfc_comm_cont">Fehler beim kommunizieren mit NFC-Tag: </string>
-    <string name="ui_kartennr">Kartennr.</string>
+    <string name="ui_konto">Account</string>
+    <string name="ui_betrag">Amount</string>
+    <string name="error_nfc_comm">NFC communication error - wrong type of card!</string>
+    <string name="error_nfc_comm_cont">Failed to communicate with NFC tag:</string>
+    <string name="ui_kartennr">Card nr.</string>
     <string name="ui_aktiviert">Aktiviert</string>
-    <string name="ui_verfall">Verfall</string>
-    <string name="ui_head_card">- Karte -</string>
-    <string name="ui_head_gkacc">- Verrechnungskonto -</string>
+    <string name="ui_verfall">Enabled</string>
+    <string name="ui_head_card">- Card -</string>
+    <string name="ui_head_gkacc">- Clearing Account -</string>
     <string name="ui_head_aid">- Features -</string>
     <string name="ui_pse">PSE</string>
-    <string name="text_yes">Ja</string>
-    <string name="text_no">Nein</string>
-    <string name="ui_head_kk">- Kreditkarte -</string>
-    <string name="ui_kk">Kreditk.-Nummer</string>
-    <string name="ui_cardtype">Typ</string>
-    <string name="error_card_unknown">Kartentyp unbekannt!</string>
-    <string name="ui_transaktionen">Transaktionen</string>
-    <string name="activity_transactions">Transaktionen</string>
-    <string name="ui_notransactions">Keine Transaktionen gefunden!</string>
+    <string name="text_yes">Yes</string>
+    <string name="text_no">No</string>
+    <string name="ui_head_kk">- Credit Card -</string>
+    <string name="ui_kk">Credit Card-Nummer</string>
+    <string name="ui_cardtype">Type</string>
+    <string name="error_card_unknown">Card type is unknown!</string>
+    <string name="ui_transaktionen">transactions</string>
+    <string name="activity_transactions">transactions</string>
+    <string name="ui_notransactions">No transactions found!</string>
 
 </resources>
