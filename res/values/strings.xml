@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">EC/credit card info</string>
+    <string name="app_name">NFC Paycard Reader</string>
     <string name="error_nfc_not_avail">NFC is not available!</string>
     <string name="ui_nfcid">NFC ID</string>
     <string name="ui_blz">BLZ</string>
@@ -9,7 +9,7 @@
     <string name="error_nfc_comm">NFC communication error - wrong type of card!</string>
     <string name="error_nfc_comm_cont">Failed to communicate with NFC tag:</string>
     <string name="ui_kartennr">Card nr.</string>
-    <string name="ui_aktiviert">Aktiviert</string>
+    <string name="ui_aktiviert">Activated</string>
     <string name="ui_verfall">Enabled</string>
     <string name="ui_head_card">- Card -</string>
     <string name="ui_head_gkacc">- Clearing Account -</string>
